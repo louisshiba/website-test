@@ -1,0 +1,16 @@
+body{
+    background-image: url(background-image.jpg);
+    background-size: cover;
+}
+
+h2{
+    color: #A6846C;
+    text-align: center;
+    border: 5px solid rgba(124, 162, 166, 0.5);
+    cursor: pointer ;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
